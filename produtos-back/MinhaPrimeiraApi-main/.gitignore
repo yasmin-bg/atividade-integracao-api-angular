@@ -1,0 +1,11 @@
+bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+node_modules/
+.angular/
+dist/
+.vs/
+.vscode/
+.DS_Store
